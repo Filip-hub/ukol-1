@@ -1,0 +1,13 @@
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\bin\Debug\netcoreapp3.1\ConsoleApp1 14.12.exe
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\bin\Debug\netcoreapp3.1\ConsoleApp1 14.12.deps.json
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\bin\Debug\netcoreapp3.1\ConsoleApp1 14.12.runtimeconfig.json
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\bin\Debug\netcoreapp3.1\ConsoleApp1 14.12.runtimeconfig.dev.json
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\bin\Debug\netcoreapp3.1\ConsoleApp1 14.12.dll
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\bin\Debug\netcoreapp3.1\ConsoleApp1 14.12.pdb
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.csprojAssemblyReference.cache
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.AssemblyInfoInputs.cache
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.AssemblyInfo.cs
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.csproj.CoreCompileInputs.cache
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.dll
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.pdb
+C:\Users\Filip Votek\source\repos\ConsoleApp1 14.12\ConsoleApp1 14.12\obj\Debug\netcoreapp3.1\ConsoleApp1 14.12.genruntimeconfig.cache
